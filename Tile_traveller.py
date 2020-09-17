@@ -1,5 +1,3 @@
-
-
 north = "You can travel (N)orth"
 east = "You can travel (E)ast"
 west = "You can travel (W)est"
@@ -100,10 +98,10 @@ def three_two():
         three_two()
 
 def three_one():
-    victory = "Victory!"
-    return victory
+    print("Victory!")
+
     
     
 
-print(one_one())
+one_one()
 
